@@ -19,8 +19,8 @@ Hava Durumu, React Native ve TypeScript kullanılarak oluşturulmuş basit bir h
 1. Projeyi klonlayın:
 
    ```bash
-   git clone https://github.com/kullaniciadi/weather-app.git
-   cd weather-app
+   git clone https://github.com/madtethys/havadurumu.git
+   cd havadurumu
    ```
 
 2. Bağımlılıkları yükleyin:
