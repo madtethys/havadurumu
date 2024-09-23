@@ -77,4 +77,4 @@ Hava durumu verilerini almak için OpenWeatherMap API anahtarına ihtiyacınız 
 
 ## Lisans
 
-Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
+Bu proje Apache License 2.0 ile lisanslanmıştır. Detaylar için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
